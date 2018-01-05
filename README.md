@@ -1,2 +1,1 @@
-# LeetCode-By-Yu
-LeetCode code.
+刷题，刷题，刷题，LeetCode搞起来!
